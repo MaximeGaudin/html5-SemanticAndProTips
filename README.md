@@ -8,6 +8,7 @@ This repository documents my learning of the following resources :
 * https://developer.mozilla.org/fr/docs/Web/HTML/Sections_and_Outlines_of_an_HTML5_document
 * https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms_in_HTML
 * https://developer.mozilla.org/fr/docs/Web/Guide/HTML/HTML5/Liste_des_%C3%A9l%C3%A9ments_HTML5
+* https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers
 
 Even if the code is not really compilable, I added a verification pass so I will be helped during my work. To check the written code, type 
 
